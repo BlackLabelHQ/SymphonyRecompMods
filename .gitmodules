@@ -1,0 +1,4 @@
+[submodule "blackout"]
+	path = blackout
+	url = https://github.com/BlackLabelHQ/BlackoutMod.git
+	branch = main
