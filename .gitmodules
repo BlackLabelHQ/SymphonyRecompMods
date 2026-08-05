@@ -2,3 +2,7 @@
 	path = blackout
 	url = https://github.com/BlackLabelHQ/BlackoutMod.git
 	branch = main
+[submodule "shaders"]
+	path = shaders
+	url = https://github.com/BlackLabelHQ/ShaderMod.git
+	branch = main
