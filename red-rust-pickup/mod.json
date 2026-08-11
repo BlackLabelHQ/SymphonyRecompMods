@@ -1,0 +1,8 @@
+{
+    "id": "rapier-pickup",
+    "name": "A Better Start",
+    "version": "0.1.0",
+    "author": "douglasneto",
+    "description": "Spawns a Rapier in the room below the first save point",
+    "dependencies": []
+}
